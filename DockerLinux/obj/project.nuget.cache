@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ucKwdg0n+xCu/x5r1SND+3Fbsnw02YWlpRuf5bG7+xKYT9cPrMQZCLrfAyYwOELMNxc5R3ezzBlqzNbwX8etbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anvi\\source\\repos\\DockerLinux\\DockerLinux\\DockerLinux.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anvi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
